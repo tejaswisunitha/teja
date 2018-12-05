@@ -1,6 +1,6 @@
-str=raw_input()
-rev_str=reversed(str)
-if list(str)==list(rev_str):
+string=raw_input()
+rev_string=reversed(str)
+if list(string)==list(rev_string):
     print "yes"
 else:
     print "no"
