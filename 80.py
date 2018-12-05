@@ -5,4 +5,4 @@ while a!=0:
     if c%2==1:
         b.append(c)
     a=a/10
-print str(b[::-1]).replace('[' "").replace(']' "")
+print str(b[::-1]).replace('[',"").replace(']',"")
