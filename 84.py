@@ -1,2 +1,2 @@
-c = str(raw_input())
-print(ord(c))
+a= str(raw_input())
+print(ord(a))
