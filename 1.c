@@ -10,8 +10,6 @@ void main()
 
 char str[90],i,l;
 
-printf("enter string ");
-
 
 scanf("%s ",&str);
 
