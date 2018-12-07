@@ -29,7 +29,7 @@ volume=l*b*h;
 System.out.print(suface_area);
 	
 
-System.out.print("\n"+volume);
+System.out.print("\t"+volume);
 	
 }
 
