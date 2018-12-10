@@ -5,6 +5,6 @@ if m>1:
         if m%i==0:
             c=c+1
 if c>1:
-   print "Yes"
+   print "yes"
 else:
-    print "No"
+    print "no"
